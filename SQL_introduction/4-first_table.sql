@@ -1,2 +1,2 @@
----creates a table if does't exist
+--creates a table if does't exist
 CREATE TABLE IF NOT EXISTS first_table(id INT, name VARCHAR(256));
